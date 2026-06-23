@@ -12,7 +12,7 @@ In addition, a cohort-based retention analysis is conducted to further examine c
 
 ## Dataset
 
-The analysis uses the Instacart Online Grocery Basket Analysis Dataset, which contains anonymized transaction data from an online grocery platform. The dataset includes information on orders, products, aisles, departments, and customer purchase histories.
+This study uses the Instacart Online Grocery Basket Analysis Dataset, which contains anonymized transaction data from an online grocery platform. The dataset includes information on orders, products, aisles, departments, and customer purchase histories.
 
 The dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset/data).
 
